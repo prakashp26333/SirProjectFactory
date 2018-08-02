@@ -1,0 +1,10 @@
+c:\users\shweta.kawad\documents\visual studio 2013\Projects\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\DesignPatternsDemo.exe.config
+c:\users\shweta.kawad\documents\visual studio 2013\Projects\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\DesignPatternsDemo.exe
+c:\users\shweta.kawad\documents\visual studio 2013\Projects\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\DesignPatternsDemo.pdb
+c:\users\shweta.kawad\documents\visual studio 2013\Projects\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.csprojResolveAssemblyReference.cache
+c:\users\shweta.kawad\documents\visual studio 2013\Projects\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.exe
+c:\users\shweta.kawad\documents\visual studio 2013\Projects\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.pdb
+c:\users\shweta.kawad\documents\visual studio 2013\Projects\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\EntityFramework.dll
+c:\users\shweta.kawad\documents\visual studio 2013\Projects\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\shweta.kawad\documents\visual studio 2013\Projects\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\EntityFramework.xml
+c:\users\shweta.kawad\documents\visual studio 2013\Projects\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\EntityFramework.SqlServer.xml
